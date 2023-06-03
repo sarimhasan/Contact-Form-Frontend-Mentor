@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 This was my first frontend mentor coding challenge and I really enjoyed it and looking forward to do more.
 ### Screenshot
-![](./git-img/screenshot.png)
+![](./git-img/Screenshot.png)
 
 
 ### Links
