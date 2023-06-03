@@ -15,8 +15,8 @@ This was my first frontend mentor coding challenge and I really enjoyed it and l
 ## My Process
 
 ### Built with
-HTML 5
-CSS Custom properties
+- HTML 5
+- CSS Custom properties
 
 ### What I learned
 I learned alot of things while solving this challenge for example, how to center a div using position absolute:
