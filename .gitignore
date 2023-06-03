@@ -16,4 +16,5 @@
 .prettierignore
 
 # IMG Folder
-# git-img/
+git-img/
+.vscode/
